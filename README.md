@@ -1,2 +1,3 @@
-# Data-Analyst_PizzaSales_Dashboard
-The Pizza Sales Dashboard offers a visual summary of key sales metrics, including total revenue, average order value, top-selling pizzas, and peak order times. Designed for quick insights, it helps businesses understand customer trends, optimize sales strategies, and make data-driven decisions to boost performance.
+#Pizza Sales Analysis and Interactive Dashboard for Data-Driven Insights
+##Project Objective:
+To analyze and visualize pizza sales data through an interactive dashboard that highlights key performance metrics such as revenue, order trends, and top-selling items. The goal is to provide actionable insights that support data-driven decision-making and enhance business performance.
