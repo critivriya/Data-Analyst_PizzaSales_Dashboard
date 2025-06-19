@@ -18,3 +18,5 @@ To analyze and visualize pizza sales data through an interactive dashboard that 
 - Bottom-Selling Pizzas  
 - Monthly Revenue
 
+## Dashboard
+![dashboard](https://github.com/user-attachments/assets/ec9ad731-1dd9-4958-9179-cb05f456da67)
